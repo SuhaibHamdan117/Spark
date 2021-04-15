@@ -7,6 +7,11 @@ import logoImg from '../../../images/logo2.png'
 import{ IconContext } from 'react-icons/lib'
 import { useHistory } from 'react-router-dom'
 
+
+
+
+
+
 function Navbar() {
 
     const[click, setClick]= useState(false)
